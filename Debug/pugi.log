@@ -1,0 +1,9 @@
+﻿  data.cpp
+E:\VSrepos\pugi\pugi\graph.h(19,9): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  graph.cpp
+E:\VSrepos\pugi\pugi\graph.h(19,9): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+E:\VSrepos\pugi\pugi\graph.cpp(59,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+E:\VSrepos\pugi\pugi\graph.h(19,9): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+  pugi.vcxproj -> E:\VSrepos\pugi\Debug\pugi.exe
